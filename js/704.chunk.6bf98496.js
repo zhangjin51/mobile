@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhelloworld"]=self["webpackChunkhelloworld"]||[]).push([[704],{8704:function(t,r,e){e.r(r),e.d(r,{default:function(){return i}});var l=function(){var t=this,r=t._self._c;return r("div",{attrs:{id:"app"}},[r("transition",[r("router-view",{staticClass:"box"})],1),r("router-view",{staticClass:"footer",attrs:{name:"footer"}})],1)},s=[],n={},o=n,u=e(1001),a=(0,u.Z)(o,l,s,!1,null,null,null),i=a.exports}}]);
+//# sourceMappingURL=704.chunk.6bf98496.js.map
